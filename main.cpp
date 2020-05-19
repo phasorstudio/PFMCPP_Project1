@@ -52,9 +52,9 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
+//  Noun:kid
+//  action 1:play
+kid.play();
 //  action 2:
 
 //  action 3:
