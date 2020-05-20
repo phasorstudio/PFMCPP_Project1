@@ -124,13 +124,13 @@ car.run();
 //  action 3:drift
 car.drift(); 
 //  10)
-//  Noun:clothes
-//  action 1:wear
-clothes.wear();
-//  action 2:change
-clothes.change();
-//  action 3:buy
-clothes.buy(); 
+//  Noun:fireFighter
+//  action 1:set the Hose
+fireFighter.setHose();
+//  action 2:savingLives
+fireFighter.savingLives();
+//  action 3:climbingSpots
+fireFighter.climbingSpots(); 
 
 
 #endif
