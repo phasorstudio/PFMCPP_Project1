@@ -53,84 +53,84 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 //  1)
 //  Noun:kid
-//  action 1:play
-kid.play();
-//  action 2:
-
-//  action 3:
- 
+//  action 1:plays
+kid.plays();
+//  action 2:studys
+kid.studys();
+//  action 3:argues
+kid.argues(); 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:bass
+//  action 1:ring the string
+bass.ringString();
+//  action 2:make a sound
+bass.makeSound();
+//  action 3:record
+bass.record(); 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:phone
+//  action 1:rings
+phone.rings();
+//  action 2:hang up
+phone.hangUp();
+//  action 3:talking to
+phone.talkingTo(); 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:eq
+//  action 1:subtract Lows
+eq.subtractLows();
+//  action 2:add highs
+eq.addHighs
+//  action 3:notch mids
+eq.notchMids(); 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:constructor
+//  action 1:measuring
+constructor.measuring();
+//  action 2:planning
+constructor.planning();
+//  action 3:building
+constructor.building(); 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:bird
+//  action 1:born
+bird.born();
+//  action 2:grows up
+bird.growsUp();
+//  action 3:fly away
+bird.flyAway(); 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:dog
+//  action 1:bark
+dog.bark();
+//  action 2:eat
+dog.eat();
+//  action 3:sleep
+dog.sleep(); 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:programmer
+//  action 1:read
+programmer.read();
+//  action 2:type
+programmer.type();
+//  action 3:view
+programmer.view(); 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:car
+//  action 1:wash
+car.wash();
+//  action 2: run
+car.run();
+//  action 3:drift
+car.drift(); 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:clothes
+//  action 1:wear
+clothes.wear();
+//  action 2:change
+clothes.change();
+//  action 3:buy
+clothes.buy(); 
 
 
 #endif
